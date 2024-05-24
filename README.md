@@ -20,6 +20,6 @@ We chose this theme and concept because it adds an element of suspense to the ga
 ## **Links:**<br>
 Gameplay Video: https://drive.google.com/file/d/1-VVpBB3Wb7ynbBJdd9_n-w6Y8GwbmIPG/view <br>
 APK file (android only): https://drive.google.com/drive/folders/1OHJMRPzpKj6IDfRiwwuZ6gbjrJUbpxQf <br>
-Source Code: https://drive.google.com/file/d/1ASPDbsLq953_ALgSHyMn5PaHePFSqFLv/view?usp=sharing <br>
+Source Code: https://drive.google.com/drive/folders/1u2bvPsChJXlm8RSSa9_6q5wmFeytxYA5?usp=sharing <br>
 
 To learn more about this project, please refer "GDD Team 1.pdf" file in the root directory.
