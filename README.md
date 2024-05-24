@@ -4,7 +4,6 @@
 
 
 **Game Introduction:**
-
 **1) Game Concept:** The concept is about a man whose father was a steel plant worker. His father disappeared one day when he was young and now (in the game) he revisits his father's old place of work to find out what happened to him. The protagonist Alex Hammond explores the factory along with another character named Dr. Rachel Turner. The player needs to look for clues that may explain what happened around the factory. Moreover, find keys to unlock doors that lead to different areas of the factory. In the end, the player fights the main boss (Forge Warden).
 This game concept is chosen to increase the player engagement, where the story revolves around the protagonist. By adding a mystery element to the game, it will enhance the player’s interest to explore the whole game and find out about his father. 
 
